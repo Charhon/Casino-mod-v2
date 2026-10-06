@@ -1,0 +1,35 @@
+# Privacy Policy
+
+This mod **does not collect, store, or transmit** personal data.
+
+## What the mod does not do
+- Does not connect to the internet
+- Does not send data to servers
+- Does not collect information about the player
+- Does not log actions
+- Does not use accounts
+
+## How it works
+The mod works completely locally within the Mindustry game and does not interact with external services.
+
+## Questions and support
+If you have any questions, open an Issue in the repository.
+
+---
+
+# Политика конфиденциальности
+
+Этот мод **не собирает, не хранит и не передаёт** персональные данные.
+
+## Что мод не делает
+- Не подключается к интернету
+- Не отправляет данные на серверы
+- Не собирает информацию об игроке
+- Не логирует действия
+- Не использует аккаунты
+
+## Как работает
+Мод работает полностью локально в игре Mindustry и не взаимодействует с внешними сервисами.
+
+## Вопросы и поддержка
+Если у вас есть вопросы, откройте Issue в репозитории.
